@@ -147,7 +147,7 @@ AI-Voice-Assistant-with-voice-authentication/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/Pruthvik1111/AI-Voice-Assistant-with-voice-authentication.git
+git clone https://github.com/neerajpaiml-bit/Voice-authentication-system.git
 ```
 
 ```bash
@@ -269,7 +269,7 @@ This project is licensed under the MIT License.
 
 **Pruthvik Shetty**
 
-GitHub: https://github.com/Pruthvik1111
+GitHub: https://github.com/neerajpaiml-bit
 
 LinkedIn: *Add your LinkedIn profile here*
 
